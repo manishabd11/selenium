@@ -1,0 +1,40 @@
+2022-04-28 15:08:54,292 INFO  [Log] Application open 
+2022-04-28 15:09:09,286 INFO  [Log] Logout completed 
+2022-04-28 15:09:09,445 INFO  [Log] logout completed 
+2022-04-28 15:09:10,498 INFO  [Log] Application closed 
+2022-04-28 15:12:40,586 INFO  [Log] Application open 
+2022-04-28 15:12:43,025 INFO  [Log] Logout completed 
+2022-04-28 15:12:43,173 INFO  [Log] logout completed 
+2022-04-28 15:12:43,644 INFO  [Log] Application closed 
+2022-04-28 15:15:02,377 INFO  [Log] Application open 
+2022-04-28 15:15:04,523 INFO  [Log] Logout completed 
+2022-04-28 15:15:04,646 INFO  [Log] enter into frame 
+2022-04-28 15:15:14,249 INFO  [Log] add new emp 
+2022-04-28 15:15:14,262 INFO  [Log] exit from frame 
+2022-04-28 15:15:14,388 INFO  [Log] logout completed 
+2022-04-28 15:15:14,846 INFO  [Log] Application closed 
+2022-04-28 15:26:53,105 INFO  [Log] Application open 
+2022-04-28 15:26:55,213 INFO  [Log] Logout completed 
+2022-04-28 15:26:55,303 INFO  [Log] enter into frame 
+2022-04-28 15:27:00,212 INFO  [Log] add new emp 
+2022-04-28 15:27:00,237 INFO  [Log] exit from frame 
+2022-04-28 15:27:00,377 INFO  [Log] logout completed 
+2022-04-28 15:27:00,782 INFO  [Log] Application closed 
+2022-05-21 11:13:46,627 INFO  [Log] Application open 
+2022-05-21 11:14:01,916 INFO  [Log] Logout completed 
+2022-05-21 11:14:02,070 INFO  [Log] logout completed 
+2022-05-21 11:14:02,785 INFO  [Log] Application closed 
+2022-05-21 11:14:07,786 INFO  [Log] Application open 
+2022-05-21 11:14:09,992 INFO  [Log] Logout completed 
+2022-05-21 11:14:10,139 INFO  [Log] enter into frame 
+2022-05-21 11:14:20,965 INFO  [Log] add new emp 
+2022-05-21 11:14:20,989 INFO  [Log] exit from frame 
+2022-05-21 11:14:21,105 INFO  [Log] logout completed 
+2022-05-21 11:14:21,442 INFO  [Log] Application closed 
+2022-05-21 13:01:18,592 INFO  [Log] Application open 
+2022-05-21 13:01:20,830 INFO  [Log] Logout completed 
+2022-05-21 13:01:20,974 INFO  [Log] enter into frame 
+2022-05-21 13:01:26,068 INFO  [Log] add new emp 
+2022-05-21 13:01:26,079 INFO  [Log] exit from frame 
+2022-05-21 13:01:26,197 INFO  [Log] logout completed 
+2022-05-21 13:01:26,520 INFO  [Log] Application closed 
