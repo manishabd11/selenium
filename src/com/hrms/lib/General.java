@@ -1,10 +1,6 @@
 package com.hrms.lib;
 
 import org.openqa.selenium.By;
-
-
-
-
 import com.hrms.utility.Log;
 
 import org.openqa.selenium.WebDriver;
@@ -14,7 +10,7 @@ import org.testng.Reporter;
 
 public class General extends Global{
 	public void openApplication() {
-		System.setProperty("webdriver.chrome.driver", "D:\\selenium driver,jar\\driver3\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "D:\\selenium driver,jar\\driver\\chromedriver_win32 (2)\\chromedriver.exe");
 	    driver = new ChromeDriver();
 		driver.navigate().to(url);
 		System.out.println("Application open");

@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class ALT_Chechbox {
 	public static void main(String args[])throws Exception{
-		System.setProperty("webdriver.chrome.driver", "D:\\selenium driver,jar\\driver\\chromedriver_win32 (1)\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "D:\\selenium driver,jar\\driver\\chromedriver_win32 (2)\\chromedriver.exe");
 		WebDriver check = new ChromeDriver();
 		check.navigate().to("http://127.0.0.1/orangehrm-2.6/login.php");
 		System.out.println(check.getTitle());

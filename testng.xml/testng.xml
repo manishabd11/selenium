@@ -5,4 +5,4 @@
       <class name="testng_prog.Sample_prog_method"/>
     </classes>
   </test> <!-- Test -->
-</suite> <!-- Suite -->
+</suite> <!-- Suite -->	

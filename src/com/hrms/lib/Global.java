@@ -10,7 +10,7 @@ public class Global {
    public String password      = "admin";
    public String EFN           = "ovee";
    public String ELN           = "bharadkar";
-   public String  EID           = "0006";
+   public String  EID           = "0001";
    public String   EMN           = "baba";
    public String  file_upload   = "D:\\selenium driver,jar\\photofile\\mani.jpg";
    

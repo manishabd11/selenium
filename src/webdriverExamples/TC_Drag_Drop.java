@@ -8,12 +8,11 @@ import static org.testng.Assert.assertEquals;
 
 public class TC_Drag_Drop {
 	public static void main(String args[])throws Exception{
-		System.setProperty("webdriver.chrome.driver", "D:\\selenium driver,jar\\driver2\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "D:\\selenium driver,jar\\driver\\chromedriver_win32 (2)\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
-		driver.get("https://jqueryui.com/droppable/");
+		driver.get("https://jqueryui.com/");
 		Thread.sleep(3000);
-        assertEquals(driver.getTitle(),"Dropable |jQuerry UI");
-        System.out.println("Title matched");
+		driver.findElement(By.xpath("//*[@id=\"sidebar\"]/aside[1]/ul/li[2]/a")).click();
         driver.switchTo().frame(0);
         Actions ac = new Actions(driver);
         ac.dragAndDrop(driver.findElement(By.xpath("//*[@id=\"draggable\"]")),driver.findElement(By.xpath("//*[@id=\"droppable\"]"))).perform();

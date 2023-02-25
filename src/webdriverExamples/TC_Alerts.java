@@ -1,13 +1,14 @@
 package webdriverExamples;
 import org.openqa.selenium.WebDriver;
 
+
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Alert;
 
 public class TC_Alerts {
 	public static void main(String args[])throws Exception{
-		System.setProperty("webdriver.chrome.driver", "D:\\selenium driver,jar\\driver2\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "D:\\selenium driver,jar\\driver\\chromedriver_win32 (2)\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.navigate().to("http://127.0.0.1/orangehrm-2.6/login.php");
 		driver.findElement(By.name("txtUserName")).sendKeys("admin");

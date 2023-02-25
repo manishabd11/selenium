@@ -10,7 +10,7 @@ public class TC_verify_Mouseover {
 	static String un = "nareshit";
 	static String pw = "nareshit";
 	public static void main(String args[])throws Exception{
-		System.setProperty("webdriver.chrome.driver","D:\\selenium driver,jar\\driver\\chromedriver_win32 (1)\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","D:\\selenium driver,jar\\driver\\chromedriver_win32 (2)\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.navigate().to(url);
 		if(driver.getTitle().equals("OrangeHRM - New Level Of HR Management")) {

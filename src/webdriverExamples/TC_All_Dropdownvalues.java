@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.Select;
 
 public class TC_All_Dropdownvalues {
 	public static void main(String args[])throws Exception{
-		System.setProperty("webdriver.chrome.driver", "D:\\selenium driver,jar\\driver3\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "D:\\selenium driver,jar\\driver\\chromedriver_win32 (2)\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.navigate().to("http://127.0.0.1/orangehrm-2.6/index.php");
 		System.out.println(driver.getTitle());

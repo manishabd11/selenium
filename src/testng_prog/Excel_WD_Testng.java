@@ -18,7 +18,7 @@ public class Excel_WD_Testng {
 	ChromeDriver driver;
 	@BeforeClass
 	public void start () {
-		System.setProperty("webdriver.chrome.driver", "D:\\selenium driver,jar\\driver3\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "D:\\selenium driver,jar\\driver\\chromedriver_win32 (2)\\chromedriver.exe");
 	     driver = new ChromeDriver();
 	}
 	@AfterClass

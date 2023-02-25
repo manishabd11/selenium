@@ -9,7 +9,7 @@ import org.openqa.selenium.interactions.Actions;
 
 public class TC_All_prog {
 	public static void main(String args[]) throws Exception {
-		System.setProperty("webdriver.chrome.driver","D:\\selenium driver,jar\\driver3\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","D:\\selenium driver,jar\\driver\\chromedriver_win32 (2)\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		System.out.println("browser launched");
 		driver.navigate().to("http://127.0.0.1/orangehrm-2.6/login.php");

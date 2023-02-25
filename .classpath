@@ -105,5 +105,6 @@
 	<classpathentry kind="lib" path="D:/selenium driver,jar/tess4j jarfiles/pdfbox-tools-2.0.26.jar"/>
 	<classpathentry kind="lib" path="D:/selenium driver,jar/tess4j jarfiles/slf4j-api-1.7.36.jar"/>
 	<classpathentry kind="lib" path="D:/selenium driver,jar/tess4j jarfiles/tess4j-5.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium driver,jar/manager jarfiles/webdrivermanager-5.3.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
